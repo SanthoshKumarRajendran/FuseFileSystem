@@ -17,7 +17,7 @@
   HOW TO : 
   ---------------------------------------------------------------------------------------
   To compile : gcc -Wall sanni_fs.c -o sanni_fs `pkg-config fuse --cflags --libs`
-  To mount 	 : ./sanni_fs <folder_name> 												<<<<<<<< Folder should already be present
+  To mount   : ./sanni_fs <folder_name>       <<<<<<<< Folder should already be present
   To unmount : fusermount -u <folder_name>
 
 */
