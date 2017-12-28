@@ -4,7 +4,7 @@
   ---------------------------------------------------------------------------------------
 
   Name 		: Santhosh Kumar Rajendran
-  N-number  : N17824779
+  N-number      : N17824779
   net-id 	: skr334
 
   For OS Assignment under Professor Katz !!
